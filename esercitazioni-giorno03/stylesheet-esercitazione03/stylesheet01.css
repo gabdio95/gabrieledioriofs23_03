@@ -1,0 +1,19 @@
+body{
+    margin-left: 21rem;
+    background-color: beige;
+}
+
+header p{
+    margin-right: 20rem;
+    margin-left: 5rem;
+}
+header img{
+    margin-left: 8rem;
+    
+}
+#text-in-grey{
+    color: grey;
+}
+#text-in-red{
+    color: crimson;
+}
